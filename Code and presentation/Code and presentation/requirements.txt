@@ -1,0 +1,27 @@
+Info:
+    Ticket counters: 2
+    Bus capacity: 10
+    Departure gates: 3
+    Waiting area capacity: 10 (there are three waiting areas)
+    The reminder of the people waits in the foyer.
+    Passenger’s ticket must be checked by the ticket inspector.
+    Ticket inspector: 1
+    Foyer can only handle: 15 people (people go here once there is no more space in the waiting area)
+    Max number of people in the terminal: 15 (foyer) + 30 (waiting area) = 45 passengers
+
+Basic requirements:
+	Simulate terminal building, purchasing tickets, waiting for a bus, and boarding a bus. (DONE)
+	Staff operating ticket booths, and ticket inspector checking tickets. (DONE)
+	80 passengers are to enter the terminal altogether. (DONE)
+	Use a random generator, so a passenger enters every 2 seconds. (DONE)
+	Passengers only leave through the terminals and not the entrance. (DONE)
+
+Additional requirements:
+	The ticketing machine is not working, the queuing passengers shift to another booth. (DONE)
+	One or more ticketing booth staff on toilet break.	(DONE)
+	Terminal has reached max capacity. (DONE)
+	Buses are delayed in arriving at the terminal. (DONE) 
+	The waiting area is full. (DONE)
+
+SIMULATION SHOULD ONLY TAKE PLACE UNDER 60 SECONDS (THIS IS NOT A MUST ANYMORE)
+MAX WORD: 1500, excluding references.

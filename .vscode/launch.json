@@ -1,0 +1,94 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainSimulation",
+      "request": "launch",
+      "mainClass": "Workspace.MainSimulation",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "SimulationTwo",
+      "request": "launch",
+      "mainClass": "Workspace.SimulationTwo",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "Trial",
+      "request": "launch",
+      "mainClass": "Trial",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "MainSimulation",
+      "request": "launch",
+      "mainClass": "MainSimulation",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "SimulationTwo",
+      "request": "launch",
+      "mainClass": "SimulationTwo",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "BusSimulationTwo",
+      "request": "launch",
+      "mainClass": "BusSimulationTwo",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "TrialCode",
+      "request": "launch",
+      "mainClass": "TrialCode",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "Simulation",
+      "request": "launch",
+      "mainClass": "Simulation",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "BusTerminalSimulation",
+      "request": "launch",
+      "mainClass": "BusTerminalSimulation",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Assignment_accf04ee"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Year 2/Semester 2/Concurrent Programming/ASSIGNMENT/Assignment/Workspace",
+      "program": "d:/Year 2/Semester 2/Concurrent Programming/ASSIGNMENT/Assignment/Workspace/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
